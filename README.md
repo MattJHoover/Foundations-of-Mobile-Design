@@ -1,4 +1,4 @@
 # Foundations-of-Mobile-Design
-Animal
+Animal is a web project using AngularJS.
 
-App Login
+App Login is a cordova application simulating an application login.
